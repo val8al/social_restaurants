@@ -1,0 +1,92 @@
+[
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a1')",
+      "name": "Chicken Mole",
+      "dietary_restrictions": ["Gluten-Free"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a2')",
+      "name": "Seared Tuna",
+      "dietary_restrictions": ["Keto"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a3')",
+      "name": "Berry Salad",
+      "dietary_restrictions": ["Paleo"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a4')",
+      "name": "Poutine",
+      "dietary_restrictions": []
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a5')",
+      "name": "Eggs and Sausages",
+      "dietary_restrictions": ["Keto"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a6')",
+      "name": "Braised Eggplant",
+      "dietary_restrictions": ["Vegan"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a7')",
+      "name": "Sashimi",
+      "dietary_restrictions": ["Gluten-Free", "Keto"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a8')",
+      "name": "Edamame",
+      "dietary_restrictions": ["Vegan", "Keto"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1a9')",
+      "name": "Padron Peppers",
+      "dietary_restrictions": ["Vegetarian", "Gluten-Free"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c8f1e1aa')",
+      "name": "Trout Roast",
+      "dietary_restrictions": ["Paleo", "Keto"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "Chilaquiles con Huevo",
+      "dietary_restrictions": ["Vegetarian"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "Cheeseburger",
+      "dietary_restrictions": []
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "Sichuan Hot-Pot",
+      "dietary_restrictions": ["Paleo","Vegetarian"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "Guava Roll",
+      "dietary_restrictions": ["Vegetarian"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "Pozole",
+      "dietary_restrictions": ["Keto", "Gluten-Free"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "Pumpkin Flower Quesadillas",
+      "dietary_restrictions": ["Vegan"]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "German Pork Pie",
+      "dietary_restrictions": []
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a4c2c822e1aa')",
+      "name": "Beef Flautas",
+      "dietary_restrictions": []
+    }
+  ]

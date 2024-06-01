@@ -1,0 +1,95 @@
+[
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1aa')",
+      "name": "Yellow Monkey",
+      "endorsements": ["Vegan Friendly", "Gluten-free options"],
+      "tables": [
+        {"number": 11, "capacity": 3, "outdoors": false, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1ba')"},
+        {"number": 2, "capacity": 2, "outdoors": true, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1bb')"}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1ab')",
+      "name": "Lardo",
+      "endorsements": ["Vegetarian Friendly", "Organic options"],
+      "tables": [
+        {"number": 1, "capacity": 4, "outdoors": false, "reservation": null},
+        {"number": 3, "capacity": 2, "outdoors": true, "reservation": null},
+        {"number": 5, "capacity": 1, "outdoors": true, "reservation": null},
+        {"number": 6, "capacity": 1, "outdoors": true, "reservation": null},
+        {"number": 7, "capacity": 1, "outdoors": true, "reservation": null}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1ac')",
+      "name": "La casa de Toño",
+      "endorsements": ["Paleo Friendly", "Keto options"],
+      "tables": [
+        {"number": 4, "capacity": 4, "outdoors": false, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1bc')"},
+        {"number": 5, "capacity": 2, "outdoors": true, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1bd')"}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1ad')",
+      "name": "Panaderia Rosetta",
+      "endorsements": ["Vegan Friendly", "Vegetarian Friendly"],
+      "tables": [
+        {"number": 6, "capacity": 6, "outdoors": false, "reservation": null},
+        {"number": 7, "capacity": 4, "outdoors": true, "reservation": null}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1ae')",
+      "name": "Tenetlan",
+      "endorsements": ["Organic options", "Gluten-free options"],
+      "tables": [
+        {"number": 8, "capacity": 8, "outdoors": false, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1be')"},
+        {"number": 9, "capacity": 2, "outdoors": true, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1bf')"}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1af')",
+      "name": "Falling Piano Brewing Co.",
+      "endorsements": ["Keto Friendly", "Paleo Friendly"],
+      "tables": [
+        {"number": 10, "capacity": 4, "outdoors": false, "reservation": null},
+        {"number": 12, "capacity": 2, "outdoors": true, "reservation": null}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1b0')",
+      "name": "u.to.pi.a",
+      "endorsements": ["Vegan Friendly", "Organic options"],
+      "tables": [
+        {"number": 13, "capacity": 4, "outdoors": false, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1c0')"},
+        {"number": 14, "capacity": 6, "outdoors": true, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1c1')"}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1b1')",
+      "name": "Samborns",
+      "endorsements": ["Vegetarian Friendly", "Gluten-free options"],
+      "tables": [
+        {"number": 15, "capacity": 3, "outdoors": false, "reservation": null},
+        {"number": 16, "capacity": 2, "outdoors": true, "reservation": null}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1b2')",
+      "name": "Longmenzhen HotPot",
+      "endorsements": ["Keto Friendly", "Vegan Friendly"],
+      "tables": [
+        {"number": 17, "capacity": 6, "outdoors": false, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1c2')"},
+        {"number": 18, "capacity": 4, "outdoors": true, "reservation": "ObjectId('60d5f9f7c2a0a0c2c8f1e1c3')"}
+      ]
+    },
+    {
+      "_id": "ObjectId('60d5f9f7c2a0a0c2c8f1e1b3')",
+      "name": "Pujol",
+      "endorsements": ["Paleo Friendly", "Organic options", "Vegetarian Friendly"],
+      "tables": [
+        {"number": 19, "capacity": 8, "outdoors": false, "reservation": null},
+        {"number": 20, "capacity": 2, "outdoors": true, "reservation": null}
+      ]
+    }
+]
