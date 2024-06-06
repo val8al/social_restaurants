@@ -25,6 +25,7 @@ curl "http://localhost:8080/check-availability?dietaryRestrictions=Vegan,Gluten-
 ```
 
 # POST /reserve/
+R
 Request body:
 ```bash
 {
