@@ -1,0 +1,52 @@
+[
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1bb" },
+      "user": { "$oid": "60d5f9f7c2a0a0c2c8f1e1af" },
+      "dinners": [
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a3" },
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a1" }
+      ],
+      "restaurant": { "$oid": "60d5f9f7c2a0a0c2c8f1e1aa" },
+      "time": { "$date": "2024-07-23T18:25:43.511Z" }
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1bc" },
+      "user": { "$oid": "60d5f9f7c2a0a0c2c8f1e1af" },
+      "dinners": [
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a2" },
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a4" }
+      ],
+      "restaurant": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ab" },
+      "time": { "$date": "2024-07-24T19:30:00.000Z" }
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1bd" },
+      "user": { "$oid": "60d5f9f7c2a0a0c2c8f1e4ec" },
+      "dinners": [
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a5" },
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a6" }
+      ],
+      "restaurant": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ac" },
+      "time": { "$date": "2024-07-25T12:00:00.000Z" }
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1be" },
+      "user": { "$oid": "60d5f9f7c2a0a0c2c8f1e1af" }, 
+      "dinners": [
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a7" },
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a8" }
+      ],
+      "restaurant": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ad" },
+      "time": { "$date": "2024-07-26T20:45:00.000Z" }
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1bf" },
+      "user": { "$oid": "60d5f9f7c2a0a0c2c8f1e1af" }, 
+      "dinners": [
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1a9" },
+          { "$oid": "60d5f9f7c2a0a4c2c8f1e1aa" }
+      ],
+      "restaurant": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ae" },
+      "time": { "$date": "2024-07-27T17:15:00.000Z" }
+  }
+]

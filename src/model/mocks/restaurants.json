@@ -1,0 +1,95 @@
+[
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1aa" },
+      "name": "Yellow Monkey",
+      "endorsements": ["Vegan Friendly", "Gluten-free options"],
+      "tables": [
+          { "number": { "$numberInt": "11" }, "capacity": { "$numberInt": "3" }, "outdoors": false, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1ba" }] },
+          { "number": { "$numberInt": "2" }, "capacity": { "$numberInt": "2" }, "outdoors": true, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1bb" }] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ab" },
+      "name": "Lardo",
+      "endorsements": ["Vegetarian Friendly", "Organic options"],
+      "tables": [
+          { "number": { "$numberInt": "1" }, "capacity": { "$numberInt": "4" }, "outdoors": false, "reservations": [] },
+          { "number": { "$numberInt": "3" }, "capacity": { "$numberInt": "2" }, "outdoors": true, "reservations": [] },
+          { "number": { "$numberInt": "5" }, "capacity": { "$numberInt": "1" }, "outdoors": true, "reservations": [] },
+          { "number": { "$numberInt": "6" }, "capacity": { "$numberInt": "1" }, "outdoors": true, "reservations": [] },
+          { "number": { "$numberInt": "7" }, "capacity": { "$numberInt": "1" }, "outdoors": true, "reservations": [] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ac" },
+      "name": "La casa de Toño",
+      "endorsements": ["Paleo Friendly", "Keto options"],
+      "tables": [
+          { "number": { "$numberInt": "4" }, "capacity": { "$numberInt": "4" }, "outdoors": false, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1bc" }] },
+          { "number": { "$numberInt": "5" }, "capacity": { "$numberInt": "2" }, "outdoors": true, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1bd" }] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ad" },
+      "name": "Panaderia Rosetta",
+      "endorsements": ["Vegan Friendly", "Vegetarian Friendly"],
+      "tables": [
+          { "number": { "$numberInt": "6" }, "capacity": { "$numberInt": "6" }, "outdoors": false, "reservations": [] },
+          { "number": { "$numberInt": "7" }, "capacity": { "$numberInt": "4" }, "outdoors": true, "reservations": [] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1ae" },
+      "name": "Tenetlan",
+      "endorsements": ["Organic options", "Gluten-free options"],
+      "tables": [
+          { "number": { "$numberInt": "8" }, "capacity": { "$numberInt": "8" }, "outdoors": false, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1be" }] },
+          { "number": { "$numberInt": "9" }, "capacity": { "$numberInt": "2" }, "outdoors": true, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1bf" }] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1af" },
+      "name": "Falling Piano Brewing Co.",
+      "endorsements": ["Keto Friendly", "Paleo Friendly"],
+      "tables": [
+          { "number": { "$numberInt": "10" }, "capacity": { "$numberInt": "4" }, "outdoors": false, "reservations": [] },
+          { "number": { "$numberInt": "12" }, "capacity": { "$numberInt": "2" }, "outdoors": true, "reservations": [] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1b0" },
+      "name": "u.to.pi.a",
+      "endorsements": ["Vegan Friendly", "Organic options"],
+      "tables": [
+          { "number": { "$numberInt": "13" }, "capacity": { "$numberInt": "4" }, "outdoors": false, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1c0" }] },
+          { "number": { "$numberInt": "14" }, "capacity": { "$numberInt": "6" }, "outdoors": true, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1c1" }] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1b1" },
+      "name": "Samborns",
+      "endorsements": ["Vegetarian Friendly", "Gluten-free options"],
+      "tables": [
+          { "number": { "$numberInt": "15" }, "capacity": { "$numberInt": "3" }, "outdoors": false, "reservations": [] },
+          { "number": { "$numberInt": "16" }, "capacity": { "$numberInt": "2" }, "outdoors": true, "reservations": [] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1b2" },
+      "name": "Longmenzhen HotPot",
+      "endorsements": ["Keto Friendly", "Vegan Friendly"],
+      "tables": [
+          { "number": { "$numberInt": "17" }, "capacity": { "$numberInt": "6" }, "outdoors": false, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1c2" }] },
+          { "number": { "$numberInt": "18" }, "capacity": { "$numberInt": "4" }, "outdoors": true, "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1c3" }] }
+      ]
+  },
+  {
+      "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1b3" },
+      "name": "Pujol",
+      "endorsements": ["Paleo Friendly", "Organic options", "Vegetarian Friendly"],
+      "tables": [
+          { "number": { "$numberInt": "19" }, "capacity": { "$numberInt": "8" }, "outdoors": false, "reservations": [] },
+          { "number": { "$numberInt": "20" }, "capacity": { "$numberInt": "2" }, "outdoors": true, "reservations": [] }
+      ]
+  }
+]

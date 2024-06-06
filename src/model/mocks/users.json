@@ -1,0 +1,17 @@
+[
+    {
+        "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1af" },
+        "username": "Jane",
+        "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1bb" },{ "$oid": "60d5f9f7c2a0a0c2c8f1e1bc" }]
+    },
+    {
+        "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e4ec" },
+        "username": "John",
+        "reservations": [{ "$oid": "60d5f9f7c2a0a0c2c8f1e1bd" }]
+    },
+    {
+        "_id": { "$oid": "60d5f9f7c2a0a0c2c8f1e1dd" },
+        "username": "Sam",
+        "reservations": []
+    }
+]
