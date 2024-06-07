@@ -2,7 +2,7 @@ import express from 'express';
 import { getAvailability } from './get_availability';
 import { connectToDatabase } from './util/mongo/connectToDatabase';
 import { infoMessage } from './consts';
-import { reserveTimeslot } from './reserve_timeslot';
+import { reserveTimeslot } from './reserve';
 import { deleteReservation } from './delete_reservation';
 import { getAllReservations } from './get_all_reservations';
 

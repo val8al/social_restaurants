@@ -22,6 +22,7 @@ export const deleteReservation = async (reservationId: string): Promise<boolean>
     return false;
   }
 
+  console.log("WTF")
   try {
     restaurant.tables.forEach(table =>{
       const index = table.reservations.findIndex(
